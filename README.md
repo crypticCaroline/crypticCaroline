@@ -22,29 +22,8 @@ Social Media set up to help dog find playmates. Pymongo Flask web app using Clou
 
 |   |   |  
 |---|---|
-| Womens in Tech Hackathon ☕📃💻 - Runner Up
- Interactive Javascript quiz built within 5 days. 👩🏼‍🤝‍👩🏾
- 
- [Live Site ](https://github.com/crypticCaroline/womenscareers)
- 
- [Repo](https://crypticcaroline.github.io/womenscareers/)   |  #### DoubleShamrock Hackathon 🐍☕📃💻 - Win
- Python Flask app allowing users to add videos, jokes and create accounts. Using Cloudinary API and MongoDb.  🍀
- 
- [Live Site](https://doubleshamrocks.herokuapp.com/homepage)
- 
- [Repo](https://github.com/crypticCaroline/hackathon-doubleShamrocks)  |  
-|  #### Overlay Test ☕📃💻
- Javascript project to help users identify whether they suffer from Visual Stress and assess their reading speed increase or decrease with coloured overlays. 🕶😎
- 
- 
- [Live Site](https://crypticcaroline.github.io/overlay-test/index.html)
- 
- [Repo](https://github.com/crypticCaroline/overlay-test)  |  #### PlantFactory 💻
- Static HTML & CSS site using Bootstrap 🌵🌴
- 
- [Live Site](https://crypticcaroline.github.io/ms1-plantfactory/index.html)
- 
- [Repo](https://github.com/crypticCaroline/ms1-plantfactory)  |   
+| Womens in Tech Hackathon ☕📃💻 - Runner Up  Interactive Javascript quiz built within 5 days. 👩🏼‍🤝‍👩🏾 [Live Site ](https://github.com/crypticCaroline/womenscareers) [Repo](https://crypticcaroline.github.io/womenscareers/)   | DoubleShamrock Hackathon 🐍☕📃💻 - Win Python Flask app allowing users to add videos, jokes and create accounts. Using Cloudinary API and MongoDb.  🍀 [Live Site](https://doubleshamrocks.herokuapp.com/homepage)  [Repo](https://github.com/crypticCaroline/hackathon-doubleShamrocks)  |  
+| Overlay Test ☕📃💻 Javascript project to help users identify whether they suffer from Visual Stress and assess their reading speed increase or decrease with coloured overlays. 🕶😎 [Live Site](https://crypticcaroline.github.io/overlay-test/index.html) [Repo](https://github.com/crypticCaroline/overlay-test)  |  PlantFactory 💻 Static HTML & CSS site using Bootstrap 🌵🌴 [Live Site](https://crypticcaroline.github.io/ms1-plantfactory/index.html) [Repo](https://github.com/crypticCaroline/ms1-plantfactory)  |   
 |   |   |   
 
 
