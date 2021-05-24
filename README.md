@@ -4,8 +4,8 @@
 
 ###  Hello 👋🏼 
 I am Rebecca, I am a Junior Software Developer looking for a role as a Software Engineer.  I am enthusiastic about learning new technologies and want to grow my skillset.  My current stack includes:  
-Languages - HTML & CSS 💻 JavaScript ☕📃 Python 🐍
-Frameworks & Libraries - Django, Flask, FlaskMail, Werkzeug, JQuery, Bootstrap, Materlize
-Databases - MongoDB & MySQL
-APIs - Google Maps, Cloudinary, EmailJS 
+- Languages - HTML & CSS 💻 JavaScript ☕📃 Python 🐍
+- Frameworks & Libraries - Django, Flask, FlaskMail, Werkzeug, JQuery, Bootstrap, Materlize
+- Databases - MongoDB & MySQL
+- APIs - Google Maps, Cloudinary, EmailJS 
 
