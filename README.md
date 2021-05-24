@@ -12,20 +12,25 @@ I am Rebecca, I am a Junior Software Developer looking for a role as a Software 
 
 ### Highlighted Projects 
 
+|
 #### PuppyPlaymates 🐍☕📃💻
 Social Media set up to help dog find playmates. Pymongo Flask web app using Cloudinary, Werkzeug and Flask Mail. Data is saved to Mongodb and deployed on Heroku. 🐶🐕
 
 [Live Site](https://puppy-playmates.herokuapp.com/)
 
 [Repo](https://github.com/crypticCaroline/puppyplaymates)
- 
+
+|  ----- |
+
+|
  
  #### Womens in Tech Hackathon ☕📃💻 - Runner Up
  Interactive Javascript quiz built within 5 days. 👩🏼‍🤝‍👩🏾
  
  [Live Site ](https://github.com/crypticCaroline/womenscareers)
  
- [Repo](https://crypticcaroline.github.io/womenscareers/)
+ [Repo](https://crypticcaroline.github.io/womenscareers/) |
+ 
  
  
  #### DoubleShamrock Hackathon 🐍☕📃💻 - Win
@@ -35,6 +40,10 @@ Social Media set up to help dog find playmates. Pymongo Flask web app using Clou
  
  [Repo](https://github.com/crypticCaroline/hackathon-doubleShamrocks)
  
+ |
+ 
+ | ----- |
+ |
  
  #### Overlay Test ☕📃💻
  Javascript project to help users identify whether they suffer from Visual Stress and assess their reading speed increase or decrease with coloured overlays. 🕶😎
@@ -43,7 +52,7 @@ Social Media set up to help dog find playmates. Pymongo Flask web app using Clou
  [Live Site](https://crypticcaroline.github.io/overlay-test/index.html)
  
  [Repo](https://github.com/crypticCaroline/overlay-test)
- 
+ |
 
  #### PlantFactory 💻
  Static HTML & CSS site using Bootstrap 🌵🌴
@@ -51,3 +60,4 @@ Social Media set up to help dog find playmates. Pymongo Flask web app using Clou
  [Live Site](https://crypticcaroline.github.io/ms1-plantfactory/index.html)
  
  [Repo](https://github.com/crypticCaroline/ms1-plantfactory)
+ |
