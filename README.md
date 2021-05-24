@@ -20,4 +20,5 @@ I am Rebecca, I am a Junior Software Developer looking for a role as a Software 
 | **Overlay Test** ☕📃💻 Javascript project to help users identify whether they suffer from Visual Stress and assess their reading speed increase or decrease with coloured overlays. 🕶😎 [Live Site](https://crypticcaroline.github.io/overlay-test/index.html) [Repo](https://github.com/crypticCaroline/overlay-test)  |  **PlantFactory** 💻 Static HTML & CSS site using Bootstrap 🌵🌴 [Live Site](https://crypticcaroline.github.io/ms1-plantfactory/index.html) [Repo](https://github.com/crypticCaroline/ms1-plantfactory)  |   
  
 
-
+#### Want to get in contact? 
+Send me a message on [Linkdin](https://www.linkedin.com/in/rebecca-kelsall-265748168/)
