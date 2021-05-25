@@ -1,6 +1,7 @@
+
 # cryptocCaroline 
 
-## ![rklogo](https://user-images.githubusercontent.com/73824252/119368567-10aaf180-bcab-11eb-8eff-e7a666345518.png)
+## ![githublogo](https://user-images.githubusercontent.com/73824252/119519395-49ad9980-bd71-11eb-987f-ea1dd070ad7a.png)
 
 ###  Hello 👋🏼 
 I am Rebecca, I am a Junior Software Developer looking for a role as a Software Engineer.  I am enthusiastic about learning new technologies and want to grow my skillset.  My current stack includes:  
