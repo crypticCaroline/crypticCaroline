@@ -1,6 +1,4 @@
 
-# crypticCaroline - Rebecca Kelsall
-
 ![rklogo](https://user-images.githubusercontent.com/73824252/119521437-0b18de80-bd73-11eb-8126-c96750f30b7f.png)
 
 ###  Hello 👋🏼 
