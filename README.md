@@ -1,7 +1,7 @@
 
 # crypticCaroline - Rebecca Kelsall
 
-## ![githublogo](https://user-images.githubusercontent.com/73824252/119519395-49ad9980-bd71-11eb-987f-ea1dd070ad7a.png)
+![rklogo](https://user-images.githubusercontent.com/73824252/119521437-0b18de80-bd73-11eb-8126-c96750f30b7f.png)
 
 ###  Hello 👋🏼 
 I am Rebecca, I am a Junior Software Developer looking for a role as a Software Engineer.  I am enthusiastic about learning new technologies and want to grow my skillset.  My current stack includes:  
