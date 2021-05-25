@@ -1,5 +1,5 @@
 
-# cryptocCaroline 
+# crypticCaroline - Rebecca Kelsall
 
 ## ![githublogo](https://user-images.githubusercontent.com/73824252/119519395-49ad9980-bd71-11eb-987f-ea1dd070ad7a.png)
 
