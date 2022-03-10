@@ -2,9 +2,11 @@
 ![rklogo](https://user-images.githubusercontent.com/73824252/119521437-0b18de80-bd73-11eb-8126-c96750f30b7f.png)
 
 ###  Hello 👋🏼 
-I am Rebecca, I am a Junior Software Developer looking for a role as a Software Engineer.  I am enthusiastic about learning new technologies and want to grow my skillset.  My current stack includes:  
-- Languages - HTML & CSS 💻 JavaScript ☕📃 Python 🐍
-- Frameworks & Libraries - Django, Flask, FlaskMail, Werkzeug, JQuery, Bootstrap, Materlize
+I am Rebecca, I am a Associate Software Engineer working at Sky in Broadcast Control, Automation and Monitoring. 
+
+My current stack includes:  
+- Languages - HTML & CSS 💻 JavaScript ☕📃 Python 🐍 C#
+- Frameworks & Libraries - Django, Flask, FlaskMail, Werkzeug, JQuery, Bootstrap, Materlize, Dataminer
 - Databases - MongoDB & MySQL
 - APIs - Google Maps, Cloudinary, EmailJS 
 - Deployment- Github Pages, Heroku 
